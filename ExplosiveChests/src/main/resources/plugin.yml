@@ -1,0 +1,7 @@
+name: ExplosiveChests
+version: '${project.version}'
+main: tk.airshipcraft.explosivechests.ExplosiveChests
+api-version: 1.19
+authors: [ notzune ]
+description: Makes containers carrying explosives explode with more explosiveness
+website: https://www.airshipcraft.tk/
